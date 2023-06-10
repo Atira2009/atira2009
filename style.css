@@ -1,0 +1,20 @@
+body{
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.heading{
+    color:blue;
+    background-color:aquamarine; width: 100%;
+    margin: 5px;
+    padding: 5px;
+}
+#note{
+    color:blue;
+    background-color: aquamarine; width: 100%;
+    font-size: 20px;
+}
+canvas{
+    box-shadow: 5px 5px 5px lightgray;
+    border-radius: 10px;
+    margin-top: 180px;
+}
